@@ -1,7 +1,7 @@
 # Solar System Simulation
 
 
-A real-time physics simulation of the Solar System built with **Python** and **OpenGL**. This project implements a **Central Force** gravity model for planetary orbits and uses **Compute Shaders** to simulate 200,000 interacting particles in real-time.
+A real-time physics simulation of the Solar System built with **Python** and **ModernGL**. This project implements a **Central Force** gravity model for planetary orbits and uses **Compute Shaders** to simulate 200,000 interacting particles in real-time.
 
 > **⚠️ Compatibility Note:** This project was optimized specifically for **Apple M-Series GPUs**. While it uses standard OpenGL 3.3, performance or shader compilation may vary on Windows/Linux machines with NVIDIA/AMD cards due to differences in driver implementations.
 
