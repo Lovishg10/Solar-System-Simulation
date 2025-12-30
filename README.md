@@ -3,7 +3,7 @@
 
 A real-time physics simulation of the Solar System built with **Python** and **OpenGL**. This project implements a **Central Force** gravity model for planetary orbits and uses **Compute Shaders** to simulate 200,000 interacting particles in real-time.
 
-> **⚠️ Compatibility Note:** This project was optimized specifically for **Apple M-Series GPUs** (M1/M2/M3). While it uses standard OpenGL 3.3, performance or shader compilation may vary on Windows/Linux machines with NVIDIA/AMD cards due to differences in driver implementations.
+> **⚠️ Compatibility Note:** This project was optimized specifically for **Apple M-Series GPUs**. While it uses standard OpenGL 3.3, performance or shader compilation may vary on Windows/Linux machines with NVIDIA/AMD cards due to differences in driver implementations.
 
 ## 🎥 Project Overview
 This simulation renders the Sun, 9 planets (including Pluto), and major moons, along with a particle belt of over **200,000 asteroids**. It demonstrates the application of classical mechanics and high-performance computing graphics in a scientific context.
