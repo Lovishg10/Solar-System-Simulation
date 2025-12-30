@@ -23,8 +23,9 @@ This simulation renders the Sun, 9 planets (including Pluto), and major moons, a
 
 ## 🚀 How to Run
 1.  **Install Dependencies:**
+    (A `requirements.txt` is provided with the exact frozen versions used in development)
     ```bash
-    pip install pygame moderngl numpy pyrr
+    pip install -r requirements.txt
     ```
 2.  **Run the Simulation:**
     ```bash
