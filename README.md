@@ -1,7 +1,5 @@
 # Solar System Simulation
 
-![Simulation Demo](assets/demo.gif)
-*(Replace this with a 5-second GIF of your simulation)*
 
 A real-time physics simulation of the Solar System built with **Python** and **OpenGL**. This project implements a **Central Force** gravity model for planetary orbits and uses **Compute Shaders** to simulate 200,000 interacting particles in real-time.
 
